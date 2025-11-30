@@ -4,7 +4,7 @@ Submitted by: Rostislav Dadazhanov
 
 Crowdfunder is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 8 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Search bar with enhanced css
+* [x] Search bar
+* [x] enhanced css
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
