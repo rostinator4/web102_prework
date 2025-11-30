@@ -23,6 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+
+https://github.com/user-attachments/assets/491544ae-f7ca-4ed0-99c9-2da69d53bb03
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -39,7 +43,7 @@ The only confusing part was in understandiong some of the instructions.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Rostislav Dadazhanov
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
